@@ -24,8 +24,8 @@ $ git commit -am 'New files'
 $ git push -u origin HEAD
 ```
 
-After executing "git push -u origin HEAD" commad you will get authentication error, unless you alredy have ssh key.
-Set up ssh key using original git intruction, remember to set empty passphrase on this step "Enter passphrase (empty for no passphrase):", this will hepl you to avoid authentication issues with crontab.
+After executing "git push -u origin HEAD" command you will get authentication error, unless you already have SSH key. 
+Set up SSH key using original git instruction, remember to set empty passphrase on this step "Enter passphrase (empty for no passphrase):", this will hepl you to avoid authentication issues with crontab.
 
 # run_backup.sh
 ```
