@@ -5,4 +5,6 @@ This is an instruction how to set up automatic DB backup and deploy it to remote
 
 # Set up repository
 Create folder for your repository
->$ mkdir -p /home/backups/database && cd /home/backups/database
+```
+$ mkdir -p /home/backups/database && cd /home/backups/database
+```
